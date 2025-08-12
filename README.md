@@ -40,7 +40,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,cs,python,php" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,php" alt="Programming Languages"/>
   </a>
 </p>
 
