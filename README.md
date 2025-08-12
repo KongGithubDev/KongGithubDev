@@ -61,7 +61,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker" alt="Backend"/>
-    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c70aa179-b058-414a-9f4c-49d4ad2436ba" />
+    <img src="https://github.com/user-attachments/assets/c70aa179-b058-414a-9f4c-49d4ad2436ba" />
   </a>
 </p>
 
