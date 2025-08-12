@@ -90,8 +90,9 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 ![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/konguser?theme=neutral)
 
 ### Pentest
-[![HTB](https://www.hackthebox.eu/badge/image/2503035)](https://www.hackthebox.eu/home/users/profile/2503035)
 [![TRY](https://tryhackme-badges.s3.amazonaws.com/konguser.png)](https://tryhackme.com/p/konguser)
+<br>
+[![HTB](https://www.hackthebox.eu/badge/image/2503035)](https://www.hackthebox.eu/home/users/profile/2503035)
 
 <br>
 
