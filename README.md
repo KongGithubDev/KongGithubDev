@@ -1,5 +1,3 @@
-[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/leetcode?site=cn)
-
 <h1 align="center">👋 Greetings, Watcharapong Namsaeng</h1>
 <h3 align="center">Developer & SAMP Server Enthusiast</h3>
 
@@ -68,6 +66,14 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
 </p>
+
+---
+
+### LeetCode
+[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
+### Pentest
+[![HTB](https://www.hackthebox.eu/badge/image/2503035)](https://www.hackthebox.eu/home/users/profile/2503035) [![TRY](https://tryhackme-badges.s3.amazonaws.com/konguser.png)](https://tryhackme.com/p/konguser)
 
 ---
 
