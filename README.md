@@ -70,7 +70,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 ---
 
 ### LeetCode
-[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/leetcode?site=cn)
+[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/konguser?site=cn)
 
 ### Pentest
 [![HTB](https://www.hackthebox.eu/badge/image/2503035)](https://www.hackthebox.eu/home/users/profile/2503035) [![TRY](https://tryhackme-badges.s3.amazonaws.com/konguser.png)](https://tryhackme.com/p/konguser)
