@@ -60,8 +60,8 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/pawn-lang.svg" alt="pawn-lang" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker" alt="Backend"/>
-    <img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/pawn-lang.svg" alt="pawn-lang" width="40" height="40"/>
   </a>
 </p>
 
