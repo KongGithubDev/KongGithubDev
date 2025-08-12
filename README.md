@@ -50,7 +50,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,js,ts" alt="Markup & Frontend"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" alt="Markup & Frontend"/>
   </a>
 </p>
 
@@ -71,7 +71,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Database & Storage"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database & Storage"/>
   </a>
 </p>
 
