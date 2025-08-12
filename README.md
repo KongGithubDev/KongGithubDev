@@ -61,7 +61,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker" alt="Backend"/>
-    
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
 </p>
 
