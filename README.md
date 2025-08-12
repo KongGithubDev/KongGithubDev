@@ -40,7 +40,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,cs,python,php" alt="Programming Languages" width="40" height="40" style="margin-right:8px;"/>
+    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,cs,python,php" alt="Programming Languages"/>
   </a>
 </p>
 
@@ -50,7 +50,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,js,ts" alt="Markup & Frontend" width="40" height="40" style="margin-right:8px;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,js,ts" alt="Markup & Frontend"/>
   </a>
 </p>
 
@@ -60,7 +60,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker" alt="Backend" width="40" height="40" style="margin-right:8px;"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker" alt="Backend"/>
   </a>
 </p>
 
@@ -70,7 +70,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Database & Storage" width="40" height="40" style="margin-right:8px;"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Database & Storage"/>
   </a>
 </p>
 
@@ -80,7 +80,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,postman,android,arduino,photoshop,tensorflow,zapier" alt="IDE, OS & Tools" width="40" height="40" style="margin-right:8px;"/>
+    <img src="https://skillicons.dev/icons?i=linux,postman,android,arduino,photoshop,tensorflow,zapier"/>
   </a>
 </p>
 
