@@ -96,8 +96,8 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <br>
 
-### Support Me
 <p align="center">
+  <h3>Support Me</h3>
   <a href="https://www.buymeacoffee.com/kongwatcharapong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://ko-fi.com/kongwatcharapong" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/></a>
