@@ -81,7 +81,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,postman,android,arduino,photoshop,tensorflow,zapier"/>
+    <img src="https://skillicons.dev/icons?i=linux,postman,androidstudio,arduino,photoshop,tensorflow,zapier"/>
   </a>
 </p>
 
