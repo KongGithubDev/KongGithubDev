@@ -7,34 +7,34 @@
   <a href="#" target="_blank">🤝 KPLauncher SAMP</a>
 </p>
 
----
+<br>
 
 ### About Me
 
 I’m currently working on [GTA Career](https://gta-career.com), a project I’m passionate about.  
 I’m continuously expanding my skills in Cybersecurity, Computer Architecture, Computer Engineering, Rust, and more.  
 
----
+<br>
 
 ### What I’m Looking For
 
 - 🤝 Collaboration opportunities on the **KPLauncher SAMP** project  
 - 🔧 Support to improve and develop **KPStore** ([kpstore.online](https://kpstore.online))  
 
----
+<br>
 
 ### Expertise & Contact
 
 - 💡 Feel free to ask me about **Pawn SAMP scripting**  
 - ✉️ Reach me at: <a href="mailto:kongwatcharapongemail@gmail.com">kongwatcharapongemail@gmail.com</a>  
 
----
+<br>
 
 ### Fun Fact
 
 😊 I’m driven to complete the tasks I start, and if I don’t succeed right away, I take a short break and come back to try again with renewed determination.
 
----
+<br>
 
 ## Programming Languages
 
@@ -44,7 +44,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
   </a>
 </p>
 
----
+<br>
 
 ## Markup Language & Frontend
 
@@ -54,7 +54,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
   </a>
 </p>
 
----
+<br>
 
 ## Backend
 
@@ -64,7 +64,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
   </a>
 </p>
 
----
+<br>
 
 ## Database & In-memory Storage
 
@@ -74,7 +74,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
   </a>
 </p>
 
----
+<br>
 
 ## IDE, OS & Tools
 
@@ -84,7 +84,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
   </a>
 </p>
 
----
+<br>
 
 ### LeetCode
 ![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/konguser?theme=neutral)
@@ -92,7 +92,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 ### Pentest
 [![HTB](https://www.hackthebox.eu/badge/image/2503035)](https://www.hackthebox.eu/home/users/profile/2503035) [![TRY](https://tryhackme-badges.s3.amazonaws.com/konguser.png)](https://tryhackme.com/p/konguser)
 
----
+<br>
 
 ### Support Me
 
