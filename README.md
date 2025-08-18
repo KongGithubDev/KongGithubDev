@@ -26,8 +26,6 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 ### Support & Contributions to Projects/Servers
 
-Support & Contributions to Projects/Servers
-
 🌟 I’m dedicated to enhancing SAMP server communities and innovative projects through development and support. My roles range from building systems to supporting development teams, ensuring seamless and engaging experiences for players.
 
 - 🤝 SiamCity (SAMP Server): Developed various systems using Pawn scripts and optimized MySQL databases to enhance server functionality and performance.
@@ -58,52 +56,38 @@ Support & Contributions to Projects/Servers
 
 <br>
 
-## Programming Languages
-
+# Programming Languages
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,php" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,php,swift" alt="Programming Languages"/>
   </a>
 </p>
 
-<br>
-
-## Markup Language & Frontend
-
+# Markup & Frontend
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" alt="Markup & Frontend"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" alt="Frontend"/>
   </a>
 </p>
 
-<br>
-
-## Backend
-
+# Backend & Infra
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/pawn-lang.svg" alt="pawn-lang" width="50" height="50"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker" alt="Backend"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker,cloudflare" alt="Backend & Infra"/>
   </a>
 </p>
 
-<br>
-
-## Database & In-memory Storage
-
+# Database & Storage
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database & Storage"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Databases"/>
   </a>
 </p>
 
-<br>
-
-## IDE, OS & Tools
-
+# IDEs, Tools & Platform
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows,linux,kali,postman,androidstudio,arduino,photoshop,tensorflow,zapier"/>
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,postman,androidstudio,arduino,photoshop,tensorflow,zapier,stackoverflow,bash,discord" alt="Tools"/>
   </a>
 </p>
 
