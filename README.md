@@ -59,21 +59,21 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 # Programming Languages
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,php,swift" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,rust,php,swift" alt="Programming Languages"/>
   </a>
 </p>
 
 # Markup & Frontend
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma" alt="Frontend"/>
   </a>
 </p>
 
 # Backend & Infra
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs,discordjs,dotnet,docker,cloudflare" alt="Backend & Infra"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,discordjs,docker,nginx,dotnet,cloudflare" alt="Backend & Infra"/>
   </a>
 </p>
 
@@ -87,7 +87,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 # IDEs, Tools & Platform
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,postman,androidstudio,arduino,photoshop,tensorflow,robloxstudio,stackoverflow,bash,discord" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,powershell,bash,visualstudio,androidstudio,arduino,robloxstudio,sketchup,photoshop,tensorflow,postman,discord,stackoverflow" alt="Tools"/>
   </a>
 </p>
 
