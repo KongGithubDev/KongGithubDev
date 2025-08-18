@@ -87,7 +87,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 # IDEs, Tools & Platform
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,postman,androidstudio,arduino,photoshop,tensorflow,zapier,robloxstudio,bash,discord" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,postman,androidstudio,arduino,photoshop,tensorflow,robloxstudio,stackoverflow,bash,discord" alt="Tools"/>
   </a>
 </p>
 
