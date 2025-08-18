@@ -26,12 +26,22 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 ### Support & Contributions to Projects/Servers
 
-🌟 I’m passionate about supporting projects and server communities, especially in the SAMP ecosystem. My contributions include coding, server maintenance, and community engagement to create better experiences for players and developers.
-- 🤝 4KingSupplySampAPI: Developed Pawn scripts to enhance gameplay features and improve server performance.
-- 🤝 LegendSampAPI: Contributed to backend API optimization and integrated community feedback for better functionality.
-- 🤝 [Example SAMP Server]: Assisted with server moderation, bug fixes, and MySQL database optimization to support a growing player base.
+Support & Contributions to Projects/Servers
 
-💡 Want to Collaborate? Reach out to me at kongwatcharapongemail@gmail.com if you’re working on a SAMP server or tech project!
+🌟 I’m dedicated to enhancing SAMP server communities and innovative projects through development and support. My roles range from building systems to supporting development teams, ensuring seamless and engaging experiences for players.
+
+- 🤝 SiamCity (SAMP Server): Developed various systems using Pawn scripts and optimized MySQL databases to enhance server functionality and performance.
+- 🤝 4KingsCatTown (SAMP Server): Supported developers by contributing to community engagement, testing, and providing feedback to improve gameplay features.
+- 🤝 FreeStyle (SAMP Server): Assisted development teams with bug fixes, moderation, and suggestions for scripting enhancements to boost player interaction.
+- 🤝 Paradise (SAMP Server): Collaborated with developers to support server maintenance and community initiatives, fostering a welcoming environment.
+
+<br>
+
+### Teams I’m Part Of:
+
+- 🚀 CareerTeam: Contributing to the development of servers under the Career network, such as GTA Career, to deliver the best player experiences through robust backend systems.
+- 🛠️ KongProject: Part of a collaborative group developing servers and various programs, leveraging my expertise in Rust, PHP, and backend development.
+- 💻 Plus+ Developers: Member of a team focused on developing SAMP APK applications and building innovative systems to enhance SAMP ecosystems.
 
 <br>
 
