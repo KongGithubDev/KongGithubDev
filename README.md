@@ -22,6 +22,8 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 - 🤝 Collaboration opportunities on the **KPLauncher SAMP** project  
 - 🔧 Support to improve and develop **KPStore** ([kpstore.online](https://kpstore.online))  
 
+<br>
+
 ### Support & Contributions to Projects/Servers
 
 🌟 I’m passionate about supporting projects and server communities, especially in the SAMP ecosystem. My contributions include coding, server maintenance, and community engagement to create better experiences for players and developers.
