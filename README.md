@@ -22,6 +22,14 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 - 🤝 Collaboration opportunities on the **KPLauncher SAMP** project  
 - 🔧 Support to improve and develop **KPStore** ([kpstore.online](https://kpstore.online))  
 
+### Support & Contributions to Projects/Servers
+
+🌟 I’m passionate about supporting projects and server communities, especially in the SAMP ecosystem. My contributions include coding, server maintenance, and community engagement to create better experiences for players and developers.
+- 🤝 4KingSupplySampAPI: Developed Pawn scripts to enhance gameplay features and improve server performance.
+- 🤝 LegendSampAPI: Contributed to backend API optimization and integrated community feedback for better functionality.
+- 🤝 [Example SAMP Server]: Assisted with server moderation, bug fixes, and MySQL database optimization to support a growing player base.
+💡 Want to Collaborate? Reach out to me at kongwatcharapongemail@gmail.com if you’re working on a SAMP server or tech project!
+
 <br>
 
 ### Expertise & Contact
@@ -34,14 +42,6 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 ### Fun Fact
 
 😊 I’m driven to complete the tasks I start, and if I don’t succeed right away, I take a short break and come back to try again with renewed determination.
-
-Support & Contributions to Projects/Servers
-
-🌟 I’m passionate about supporting projects and server communities, especially in the SAMP ecosystem. My contributions include coding, server maintenance, and community engagement to create better experiences for players and developers.
-- 🤝 4KingSupplySampAPI: Developed Pawn scripts to enhance gameplay features and improve server performance.
-- 🤝 LegendSampAPI: Contributed to backend API optimization and integrated community feedback for better functionality.
-- 🤝 [Example SAMP Server]: Assisted with server moderation, bug fixes, and MySQL database optimization to support a growing player base.
-💡 Want to Collaborate? Reach out to me at kongwatcharapongemail@gmail.com if you’re working on a SAMP server or tech project!
 
 <br>
 
