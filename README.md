@@ -5,7 +5,7 @@
   <a href="https://gta-career.com" target="_blank">🚀 GTA Career</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://kpstore.online" target="_blank">🛠️ KPStore</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#" target="_blank">💸 TMWPond</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#" target="_blank">🤝 KPLauncher SAMP</a>
+  <a href="#" target="_blank">🤝 KPLauncher</a>
 </p>
 
 <br>
