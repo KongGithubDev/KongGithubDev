@@ -10,6 +10,20 @@
 
 <br>
 
+### 🌟 Currently Supporting
+
+I actively support the following project/server:
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://via.placeholder.com/150x50?text=4KingsCattown" alt="4KingsCattown" width="200" style="border-radius:10px;"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 Providing development, maintenance, and community support.
+</p>
+
 ### About Me
 
 I’m currently working on [GTA Career](https://gta-career.com), a project I’m passionate about.  
