@@ -105,7 +105,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 ## Support Me
 <p align="center">
-  <a href="https://www.buymeacoffee.com/kongwatcharapong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/></a>
-  &nbsp;&nbsp;&nbsp;
+<!--   <a href="https://www.buymeacoffee.com/kongwatcharapong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/></a>
+  &nbsp;&nbsp;&nbsp; -->
   <a href="https://ko-fi.com/kongwatcharapong" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/></a>
 </p>
