@@ -73,21 +73,21 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 # Backend & Infra
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker,cloudflare" alt="Backend & Infra"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,discordjs,dotnet,docker,cloudflare" alt="Backend & Infra"/>
   </a>
 </p>
 
 # Database & Storage
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="Databases"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
   </a>
 </p>
 
 # IDEs, Tools & Platform
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,postman,androidstudio,arduino,photoshop,tensorflow,zapier,stackoverflow,bash,discord" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,postman,androidstudio,arduino,photoshop,tensorflow,zapier,robloxstudio,bash,discord" alt="Tools"/>
   </a>
 </p>
 
