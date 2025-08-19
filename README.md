@@ -77,7 +77,7 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs,npm,discordjs,docker,nginx,dotnet,cloudflare" alt="Backend & Infra"/>
   </a>
-  <img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/pawn-lang.svg" alt="Pawn" height="48" />
+  <img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/pawn-lang.svg" href="https://github.com/pawn-lang" alt="Pawn" height="48" />
 </p>
 
 # Database & Storage
