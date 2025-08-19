@@ -32,7 +32,8 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 - 🤝 4KingsCatTown (SAMP Server): Supported developers by contributing to community engagement, testing, and providing feedback to improve gameplay features.
 - 🤝 FreeStyle (SAMP Server): Assisted development teams with bug fixes, moderation, and suggestions for scripting enhancements to boost player interaction.
 - 🤝 Paradise (SAMP Server): Collaborated with developers to support server maintenance and community initiatives, fostering a welcoming environment.
-  and more...
+
+and more...
 
 <br>
 
