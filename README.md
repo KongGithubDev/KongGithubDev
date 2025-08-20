@@ -28,20 +28,20 @@ I’m continuously expanding my skills in Cybersecurity, Computer Architecture, 
 
 🌟 I’m dedicated to enhancing SAMP server communities and innovative projects through development and support. My roles range from building systems to supporting development teams, ensuring seamless and engaging experiences for players.
 
-- 🤝 SiamCity (SAMP Server): Developed various systems using Pawn scripts and optimized MySQL databases to enhance server functionality and performance.
-- 🤝 4KingsCatTown (SAMP Server): Supported developers by contributing to community engagement, testing, and providing feedback to improve gameplay features.
-- 🤝 FreeStyle (SAMP Server): Assisted development teams with bug fixes, moderation, and suggestions for scripting enhancements to boost player interaction.
-- 🤝 Paradise (SAMP Server): Collaborated with developers to support server maintenance and community initiatives, fostering a welcoming environment.
+- 🤝 **SiamCity (SAMP Server)**: Developed various systems using Pawn scripts and optimized MySQL databases to enhance server functionality and performance.
+- 🤝 **4KingsCatTown (SAMP Server)**: Supported developers by contributing to community engagement, testing, and providing feedback to improve gameplay features.
+- 🤝 **FreeStyle (SAMP Server)**: Assisted development teams with bug fixes, moderation, and suggestions for scripting enhancements to boost player interaction.
+- 🤝 **Paradise (SAMP Server)**: Collaborated with developers to support server maintenance and community initiatives, fostering a welcoming environment.
 
-  and more...
+  **and more...**
 
 <br>
 
 ### Teams I’m Part Of:
 
-- 🚀 CareerTeam: Contributing to the development of servers under the Career network, such as GTA Career, to deliver the best player experiences through robust backend systems.
-- 🛠️ KongProject: Part of a collaborative group developing servers and various programs, leveraging my expertise in Rust, PHP, and backend development.
-- 💻 Plus+ Developers: Member of a team focused on developing SAMP APK applications and building innovative systems to enhance SAMP ecosystems.
+- 🚀 **CareerTeam**: Contributing to the development of servers under the Career network, such as GTA Career, to deliver the best player experiences through robust backend systems.
+- 🛠️ **KongProject**: Part of a collaborative group developing servers and various programs, leveraging my expertise in Rust, PHP, and backend development.
+- 💻 **Plus+ Developers**: Member of a team focused on developing SAMP APK applications and building innovative systems to enhance SAMP ecosystems.
 
 <br>
 
