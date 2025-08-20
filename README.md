@@ -39,7 +39,7 @@ I’m dedicated to enhancing **SAMP server communities** and innovative projects
 - **4KingsCatTown**: Supported developers by contributing to community engagement, testing, and providing feedback to improve gameplay features.  
 - **FreeStyle**: Assisted development teams with bug fixes, moderation, and suggestions for scripting enhancements to boost player interaction.  
 - **Paradise**: Collaborated with developers to support server maintenance and community initiatives, fostering a welcoming environment.
-- **Play Training (SAMP Server)**: Developed a specialized training server for weapon practice, featuring **advanced kill moves, combat techniques, and interactive training systems** to help players improve their skills.
+- **Play Training**: Developed a specialized training server for weapon practice, featuring **advanced kill moves, combat techniques, and interactive training systems** to help players improve their skills.
 - **and many more...**: Contributed to various other SAMP servers, enhancing gameplay, server stability, and community engagement.
 
 ### ✨ Additional Contributions
