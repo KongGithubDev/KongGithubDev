@@ -12,7 +12,7 @@
 
 ## About
 
-I am a developer based in Kalasin, Thailand, with a profound passion for programming and network security. My journey into technology began in childhood with a hand-me-down notebook from my sister, which sparked my curiosity in networking and eventually led me to software development. 
+I am a developer based in Thailand, with a profound passion for programming and network security. My journey into technology began in childhood with a hand-me-down notebook from my sister, which sparked my curiosity in networking and eventually led me to software development. 
 
 I strongly believe that starting early builds a solid foundation for the future. I am highly adaptable to new technologies, driven by a continuous goal to refine my skills, architect robust solutions, and ultimately grow into a professional developer.
 
