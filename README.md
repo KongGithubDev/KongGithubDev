@@ -1,126 +1,66 @@
-
-<!--  ![KongWatcharapong Banner](https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/kongbanner.png) -->
-
-<h1 align="center">👋 Greetings, I'm Mr.Watcharapong Namsaeng<sup>TH</sup></h1>
-<h3 align="center">Developer & SAMP Server Enthusiast</h3>
-
 <div align="center">
+  <h1>Watcharapong Namsaeng</h1>
+  <p>Student • Software Developer • Cybersecurity Enthusiast</p>
   
-  [![GTA Career](https://img.shields.io/badge/🚀-GTA_Career-blue?style=for-the-badge)](https://gta-career.com)
-  [![KPStore](https://img.shields.io/badge/🛠️-KPStore-green?style=for-the-badge)](https://kpstore.online)
-  [![TMWPond](https://img.shields.io/badge/💸-TMWPond-yellow?style=for-the-badge)](#)
-  [![KPLauncher](https://img.shields.io/badge/🤝-KPLauncher-purple?style=for-the-badge)](#)
+  <a href="https://gta-career.com"><img src="https://img.shields.io/badge/GTA_Career-000000?style=flat-square&logoColor=white" alt="GTA Career" /></a>
+  <a href="https://kpstore.online"><img src="https://img.shields.io/badge/KPStore-000000?style=flat-square&logoColor=white" alt="KPStore" /></a>
+  <img src="https://img.shields.io/badge/TMWPond-000000?style=flat-square&logoColor=white" alt="TMWPond" />
+  <img src="https://img.shields.io/badge/KongProject-000000?style=flat-square&logoColor=white" alt="KongProject" />
 </div>
 
-## About Me
-
-I’m currently working on [GTA Career](https://gta-career.com), a project I’m passionate about.  
-I’m continuously expanding my skills in **Cybersecurity, Computer Architecture, Computer Engineering, Rust, and more**.  
-
 <br>
 
-## What I’m Looking For
+## About
 
-- 🤝 Collaboration opportunities on the **KPLauncher SAMP** project  
-- 🔧 Support to improve and develop **KPStore** ([kpstore.online](https://kpstore.online))  
+I am a developer based in Kalasin, Thailand, with a profound passion for programming and network security. My journey into technology began in childhood with a hand-me-down notebook from my sister, which sparked my curiosity in networking and eventually led me to software development. 
 
+I strongly believe that starting early builds a solid foundation for the future. I am highly adaptable to new technologies, driven by a continuous goal to refine my skills, architect robust solutions, and ultimately grow into a professional developer.
+
+---
+
+## Experience & Contributions
+
+My practical experience spans across server management, full-stack web development, and extensive game server architecture.
+
+* **KongProject (Founder):** Spearheading a comprehensive development group handling a wide array of multidisciplinary projects. Directing end-to-end development across various tech stacks.
+* **Systems Architecture & Game Server Development (Since 2020):** Extensive background in SA:MP (San Andreas Multiplayer) development using Pawn and MySQL. Architected backend systems, combat mechanics, and provided core maintenance for multiple established servers including GTA Career, Play Training, SiamCity, and FreeStyle.
+* **Web & Platform Development:** Developed comprehensive top-up systems (e.g., TMWPond) featuring automated game credit integration, secure payments, Cloudflare Turnstile anti-fraud protection, and real-time order tracking.
+* **Infrastructure & Security:** Managed VPS deployments and provided DDoS mitigation for hosting clients, ensuring high availability, performance optimization, and network security.
+
+---
+
+## Technical Arsenal
+
+**Languages**
 <br>
+<img src="https://skillicons.dev/icons?i=go,python,cpp,c,cs,rust,php,swift" height="32" />
+<a href="https://github.com/pawn-lang" target="_blank"><img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/pawn-lang.svg" alt="Pawn" height="32" style="vertical-align: bottom;" /></a>
 
-## 🌟 Support & Contributions to Projects/Servers
-
-I’m dedicated to enhancing **SAMP server communities** and innovative projects through development and support. My roles range from building systems to assisting development teams, ensuring seamless and engaging experiences for players.
-
-### 🖥️ VPS & Server Management
-- **PONDVPS**: Collaborated on SAMP server deployment and VPS management.  
-  *Assisted customers with technical issues including DDoS attacks, server stability, and VPS optimization.*
-
-### 🎮 SAMP Server Development
-- **SiamCity**: Developed various systems using Pawn scripts and optimized MySQL databases to enhance server functionality and performance.  
-- **4KingsCatTown**: Supported developers by contributing to community engagement, testing, and providing feedback to improve gameplay features.  
-- **FreeStyle**: Assisted development teams with bug fixes, moderation, and suggestions for scripting enhancements to boost player interaction.  
-- **Paradise**: Collaborated with developers to support server maintenance and community initiatives, fostering a welcoming environment.
-- **Play Training**: Developed a specialized training server for weapon practice, featuring **advanced kill moves, combat techniques, and interactive training systems** to help players improve their skills.
-- **and many more...**: Contributed to various other SAMP servers, enhancing gameplay, server stability, and community engagement.
-
-### ✨ Additional Contributions
-- Contributed to other community projects, tools, and server-related initiatives, improving gameplay, stability, and player engagement beyond the main servers listed above.
-
+**Infrastructure & Backend**
 <br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,docker,nginx,cloudflare,linux" height="32" />
 
-## Teams I’m Part Of
-
-- 🚀 **CareerTeam**: Contributing to the development of servers under the Career network, such as GTA Career, delivering the best player experiences through robust backend systems.  
-- 🛠️ **KongProject**: Collaborative group developing servers and programs using Rust, PHP, and backend development.  
-- 💻 **Plus+ Developers**: Team focused on developing SAMP APK applications and innovative systems to enhance SAMP ecosystems.
-
+**Frontend, Mobile & Design**
 <br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,kotlin,figma" height="32" />
 
-## Expertise & Contact
+---
 
-- 💡 **Pawn SAMP scripting**  
-- ✉️ Reach me at: [kongwatcharapongemail@gmail.com](mailto:kongwatcharapongemail@gmail.com)  
+## Metrics & Security Platforms
 
-<br>
+<div align="center">
+  <br>
+  <a href="https://tryhackme.com/p/konguser"><img src="https://tryhackme-badges.s3.amazonaws.com/konguser.png" alt="TryHackMe" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackthebox.eu/home/users/profile/2503035"><img src="https://www.hackthebox.eu/badge/image/2503035" alt="HackTheBox" style="vertical-align: bottom;"/></a>
+  <br><br>
+  <img src="https://leetcode-badge-sage.vercel.app/badge/konguser?theme=nord" alt="LeetCode" />
+  <br><br>
+</div>
 
-## Fun Fact
+---
 
-😊 I’m driven to complete the tasks I start, and if I don’t succeed right away, I take a short break and come back to try again with renewed determination.
-
-<br>
-
-# Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,rust,php,swift" alt="Programming Languages"/>
-  </a>
-</p>
-
-# Markup & Frontend
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma" alt="Frontend"/>
-  </a>
-</p>
-
-# Backend & Infra
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,discordjs,docker,nginx,dotnet,cloudflare" alt="Backend & Infra"/>
-  </a>
-  <a href="https://github.com/pawn-lang" target="_blank">
-    <img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/pawn-lang.svg" alt="Pawn" height="48" />
-  </a>
-</p>
-
-# Database & Storage
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
-  </a>
-</p>
-
-# IDEs, Tools & Platform
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode,git,powershell,bash,visualstudio,androidstudio,arduino,robloxstudio,sketchup,photoshop,tensorflow,postman,discord,stackoverflow" alt="Tools"/>
-  </a>
-</p>
-
-<br>
-
-### LeetCode
-![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/konguser?theme=neutral)
-
-### Pentest
-[![TRY](https://tryhackme-badges.s3.amazonaws.com/konguser.png)](https://tryhackme.com/p/konguser)
-<br>
-[![HTB](https://www.hackthebox.eu/badge/image/2503035)](https://www.hackthebox.eu/home/users/profile/2503035)
-
-<br>
-
-## Support Me
-<p align="center">
-<!--   <a href="https://www.buymeacoffee.com/kongwatcharapong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/></a>
-  &nbsp;&nbsp;&nbsp; -->
-  <a href="https://ko-fi.com/kongwatcharapong" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/></a>
-</p>
+<div align="center">
+  <p><b>Contact:</b> <a href="mailto:contact@kongwatcharapong.in.th">contact@kongwatcharapong.in.th</a></p>
+  <p>Kalasin, Thailand</p>
+</div>
