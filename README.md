@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/kongbanner.png" alt="KongWatcharapong Banner" width="100%" />
+
   <h1>Watcharapong Namsaeng</h1>
   <p>Student • Software Developer • Cybersecurity Enthusiast</p>
   
