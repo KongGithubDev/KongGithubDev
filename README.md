@@ -8,6 +8,7 @@
   <a href="https://kpstore.online"><img src="https://img.shields.io/badge/KPStore-000000?style=flat-square&logoColor=white" alt="KPStore" /></a>
   <img src="https://img.shields.io/badge/TMWPond-000000?style=flat-square&logoColor=white" alt="TMWPond" />
   <img src="https://img.shields.io/badge/KongProject-000000?style=flat-square&logoColor=white" alt="KongProject" />
+  <a href="https://lobehub.com/mcp/konggithubdev-samp-mcp"><img src="https://lobehub.com/badge/mcp/konggithubdev-samp-mcp" alt="MCP Badge" /></a>
 </div>
 
 <br>
