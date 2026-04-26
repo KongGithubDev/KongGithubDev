@@ -11,8 +11,6 @@
   <a href="https://lobehub.com/mcp/konggithubdev-samp-mcp"><img src="https://lobehub.com/badge/mcp/konggithubdev-samp-mcp" alt="MCP Badge" /></a>
 </div>
 
-<br>
-
 ## About
 
 I am a developer based in Thailand, with a profound passion for programming and network security. My journey into technology began in childhood with a hand-me-down notebook from my sister, which sparked my curiosity in networking and eventually led me to software development. 
@@ -57,7 +55,7 @@ My practical experience spans across server management, full-stack web developme
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackthebox.eu/home/users/profile/2503035"><img src="https://www.hackthebox.eu/badge/image/2503035" alt="HackTheBox" style="vertical-align: bottom;"/></a>
   <br><br>
-  <img src="https://leetcode-badge-sage.vercel.app/badge/konguser?theme=nord" alt="LeetCode" />
+  <img src="https://leetcard.jacoblin.cool/konguser?theme=nord" />
   <br><br>
 </div>
 
