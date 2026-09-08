@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/KongGithubDev/KongGithubDev/refs/heads/main/kongbanner.png" alt="Watcharapong Namsaeng Banner" width="100%" />
-
-  <h1>Watcharapong Namsaeng</h1>
-  <p>Student • Software Developer • Cybersecurity Enthusiast</p>
-
+  
+<br>
+  
 <a href="https://gta-career.com"><img src="https://img.shields.io/badge/GTA_Career-000000?style=flat-square&logoColor=white" alt="GTA Career" /></a> <a href="https://kpstore.online"><img src="https://img.shields.io/badge/KPStore-000000?style=flat-square&logoColor=white" alt="KPStore" /></a> <img src="https://img.shields.io/badge/TMWPond-000000?style=flat-square&logoColor=white" alt="TMWPond" /> <img src="https://img.shields.io/badge/KongProject-000000?style=flat-square&logoColor=white" alt="KongProject" /> <a href="https://lobehub.com/mcp/konggithubdev-samp-mcp"><img src="https://lobehub.com/badge/mcp/konggithubdev-samp-mcp" alt="MCP Badge" /></a>
 
 </div>
